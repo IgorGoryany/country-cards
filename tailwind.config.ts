@@ -16,7 +16,7 @@ export default {
         keyframes: {
             remove: {
                 to: {
-                    transform: "translate(-200vw)",
+                    transform: "translate(200vw)",
                 },
             },
             "move-top": {
